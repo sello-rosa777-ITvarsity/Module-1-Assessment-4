@@ -22,7 +22,7 @@ table{
     
     font-family: cursive;
     border-collapse: collapse;
-    background-color: azure
+    background-color:chocolate;
 
     
     
@@ -34,7 +34,7 @@ p{
     text-decoration: line-through
 }
 th{font font-weight: 600;
-    background-color: beige;
+    background-color:aquamarine;
     color: black
     
     
